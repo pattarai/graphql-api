@@ -27,7 +27,7 @@ Steps to make your contribution:
 
 ### 3. Add this repo as the remote upstream and keep it synced by pulling from upstream
 ```
-git remote add upstream https://github.com/pattarai/discord-moderator-bot.git
+git remote add upstream https://github.com/pattarai/graphql-api.git
 
 git pull upstream main
 ```
